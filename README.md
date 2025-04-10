@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Abi! ![image](https://github.com/user-attachments/assets/1ce251c0-8e9c-4870-9c47-f2775191df1b)
 
-<!--
-**Abi-Daman/Abi-Daman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+#### -𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝙻𝚘𝚢𝚘𝚕𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝙲𝚑𝚒𝚌𝚊𝚐𝚘
+#### -𝙱𝚂 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 
+#### -𝙴𝚡𝚙𝚎𝚌𝚝𝚎𝚍 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚘𝚗: 𝙼𝚊𝚢 𝟸0𝟸𝟽
 
-Here are some ideas to get you started:
+## 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+#### -𝚄𝚋𝚞𝚗𝚝𝚞
+#### -𝙿𝚢𝚝𝚑𝚘𝚗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻𝙸 𝚔𝚗𝚘𝚠
+#### -𝚁
+
